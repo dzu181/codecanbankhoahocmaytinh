@@ -1,0 +1,8 @@
+20154534             Nguyen	Van	A		10 
+20151234             Tran	Van	B 		5
+20157375             Dinh	Van	C		8
+20157845             Ma		Van	X		7
+20154456             Phan	Thi	Ha		8
+20159764             Vu		Van	Dai		9
+20154567             Do		Duc	Dao		6
+               
