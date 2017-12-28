@@ -21,7 +21,6 @@ sử dụng thuật toán sắp xếp nổi bọt.
 sử dụng thuật toán sắp xếp chọn (selection sort).
 8) Viết chương trình nhập một dãy số bất kỳ từ bàn phím và sắp xếp dãy số đó tăng dần, giảm dần
 sử dụng thuật toán sắp xếp nhanh (quick sort).
-9) Viết chương trình quản lý dữ liệu lớp vật lý kỹ thuật K60 với cơ sở dữ liệu gồm: 1) Số thự tự;
-2) Họ và tên đệm; 3) Tên; 4) Điểm tổng kết của các học kì. Yêu cầu với chương trình: Chương
+9) Viết chương trình quản lý dữ liệu lớp vật lý kỹ thuật K60 với cơ sở dữ liệu gồm: 1) Số thự tự; 2) Họ và tên đệm; 3) Tên; 4) Điểm tổng kết của các học kì. Yêu cầu với chương trình: Chương
 trình có tính năng sắp xếp theo số thứ tự, tên, họ, điểm; Chương trình có tính năng tìm kiếm
 theo số thứ tự, tên, họ, điểm.
