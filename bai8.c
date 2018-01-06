@@ -69,7 +69,7 @@ void quickSort_giam(int a[], int dau,int cuoi)
 
 int main()
 {
-	int a[100],i,j;
+	int a[100],i;
 	printf("Nhap so phan tu cua day so: ");scanf("%d",&n);
 	printf("Nhap day so:");
 	for(i=0;i<n;i++)
